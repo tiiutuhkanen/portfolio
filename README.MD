@@ -1,7 +1,7 @@
 # Portfolio
 
 
-## 1. Projekt - Tahvli tunniplaani mobiilivaate loomine
+## 1. Projekt
 Ülesanne oli luua olemasolevale Tahvli tunniplaani kuvamisviisile alternatiivne vaade, mis meie hinnangul võiks olla kasutajasõbralikum võrreldes hetkel olemasoleva kuvaga. Ülesande sooritamiseks loositi meeskonnad, mis koosnesid erineva tasemega tarkvaraarenduse õpilastest. Ülesande sooritamiseks oli aega kolm tööpäeva.
 
 ### **1. Mis me oma tiimiga AsusDellHP tegime?**
