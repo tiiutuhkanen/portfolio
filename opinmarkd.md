@@ -28,3 +28,5 @@ print ("Hello World!")
 
 > Andrus ütleb, et nii saab. Plöhh! Ei saa ju!!!!!!!!! Loll.
 
+nonii, selle failiga peaks olema kõik korras. Kohtumiseni uuel korral 
+
